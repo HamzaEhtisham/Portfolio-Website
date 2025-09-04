@@ -7,9 +7,6 @@ export default defineConfig({
   server: {
     port: 3000,
     open: true,
-    allowedHosts: [
-      "portfolio-website-nh9r.onrender.com", // apna Render domain add kiya
-    ],
   },
   build: {
     outDir: "dist",
