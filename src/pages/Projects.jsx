@@ -6,10 +6,10 @@ const Projects = () => {
     {
       title: "E-Commerce Platform",
       description:
-        "A full-stack e-commerce solution with React, Node.js, and Stripe integration",
+        "A full-stack e-commerce solution with React, Flask, and SQLite integration",
       image:
         "https://plus.unsplash.com/premium_photo-1684785618727-378a3a5e91c5?q=80&w=484&auto=format&fit=crop&q=60",
-      tech: ["React", "Node.js", "MongoDB", "Stripe"],
+      tech: ["React", "FLask", "SQLite"],
       live: "https://example.com",
       github: "https://github.com/HamzaEhtisham/Ecommerce-Website-ShopHub.git",
     },
@@ -29,7 +29,7 @@ const Projects = () => {
         "A powerful web scraping tool that extracts structured data from car websites, built with React and TypeScript for performance and scalability.",
       image:
         "https://images.unsplash.com/photo-1642052503083-bc49dd433478?w=600&auto=format&fit=crop&q=60",
-      tech: ["React", "TypeScript", "OpenAI API", "Framer Motion"],
+      tech: ["Python", "Scrapy", "ScikitLearn", "NumPy"],
       live: "https://example.com",
       github:
         "https://github.com/HamzaEhtisham/Website-Scraper-tool-car-website-.git",
@@ -40,7 +40,7 @@ const Projects = () => {
         "Real-time weather application with interactive maps and forecasts",
       image:
         "https://images.unsplash.com/photo-1503264116251-35a269479413?w=600&auto=format&fit=crop&q=60",
-      tech: ["Vue.js", "Weather API", "Chart.js", "CSS3"],
+      tech: ["React", "Weather API", "CSS3"],
       live: "https://example.com",
       github: "https://github.com/HamzaEhtisham/Wheather-Forcast-.git",
     },
@@ -50,12 +50,12 @@ const Projects = () => {
         "Full-featured social platform with posts, stories, and messaging",
       image:
         "https://images.unsplash.com/photo-1603145733146-ae562a55031e?q=80",
-      tech: ["React Native", "Firebase", "Redux", "Express"],
+      tech: ["React Native", "Convex", "CLerk"],
       live: "https://example.com",
-      github: "https://github.com/example/socialapp",
+      github: "https://github.com/HamzaEhtisham/Social-media-app.git",
     },
     {
-      title: "Portfolio CMS",
+      title: "Portfolio",
       description:
         "Content management system for creative professionals and agencies",
       image:
