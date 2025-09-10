@@ -10,7 +10,7 @@ const Projects = () => {
       image:
         "https://plus.unsplash.com/premium_photo-1684785618727-378a3a5e91c5?q=80&w=484&auto=format&fit=crop&q=60",
       tech: ["React", "FLask", "SQLite"],
-      live: "https://example.com",
+      live: "https://react-frontend-xru2.onrender.com",
       github: "https://github.com/HamzaEhtisham/Ecommerce-Website-ShopHub.git",
     },
     {
@@ -24,15 +24,14 @@ const Projects = () => {
       github: "https://github.com/example/taskapp",
     },
     {
-      title: "Website Scrapper Tool",
+      title: "MERN Chat app",
       description:
-        "A powerful web scraping tool that extracts structured data from car websites, built with React and TypeScript for performance and scalability.",
+        "Real-time chat application with user authentication and conversations",
       image:
-        "https://images.unsplash.com/photo-1642052503083-bc49dd433478?w=600&auto=format&fit=crop&q=60",
-      tech: ["Python", "Scrapy", "ScikitLearn", "NumPy"],
-      live: "https://example.com",
-      github:
-        "https://github.com/HamzaEhtisham/Website-Scraper-tool-car-website-.git",
+        "https://plus.unsplash.com/premium_photo-1677252438450-b779a923b0f6?w=600&auto=format&fit=crop&q=60",
+      tech: ["react", "express", "mongoDB", "nodejs", "socket.io"],
+      live: "https://mern-stack-chat-app-f91s.onrender.com",
+      github: "https://github.com/HamzaEhtisham/MERN-Stack-chat-app-.git",
     },
     {
       title: "Weather Dashboard",
